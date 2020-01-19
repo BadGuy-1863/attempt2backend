@@ -1,6 +1,6 @@
 <?php
 
-
+echo "help";
 require_once 'DatabaseConnect.php';
 
 $username = $password = "";
