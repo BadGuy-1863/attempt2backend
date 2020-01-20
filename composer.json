@@ -1,11 +1,1 @@
-{
-  "require": {
-    "ext-mysql": "*"
-  },
-   "require": {
-      "ext-gettext": "*"
-    },
-   "require-dev": {
-      "heroku/heroku-buildpack-php": "*"
-   }
-}
+{}
